@@ -1,4 +1,4 @@
-# ChatGPTVPN
+# ChatGPT VPN
 - 科学上网神器
 - 具备超高匿名性、伪装性，使用trojan协议，将代理流量伪装成HTTPS流量发送
 - 额外的开发者针对openai、youtube、fb及学术网站进行DNS了优化
