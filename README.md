@@ -1,4 +1,4 @@
-# ChatGPT VPN 科学上网神器
+# trojan VPN 科学上网神器
 - 具备超高匿名性、伪装性，使用trojan协议，将代理流量伪装成HTTPS流量发送。
 - 额外的开发者针对openai、youtube、fb及学术网站进行DNS了优化。
 - 单用户可以达到30M，下载3-4MB/s，观看1080P毫无压力，不玩套路。
